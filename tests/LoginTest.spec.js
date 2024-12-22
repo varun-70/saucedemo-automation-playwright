@@ -42,12 +42,3 @@ test.describe('Login Validation', { tag: '@Login' }, async () => {
         })
     })
 })
-
-
-
-
-    // .enterPassword(password)
-    // .clickLoginBtn()
-    // .verifyErrorMessage(errorMessage)
-    // .clickCloseErrorMsg()
-    // .verifyErrorMsgNotDisplayed();

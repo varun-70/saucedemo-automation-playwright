@@ -1,0 +1,36 @@
+{
+  "login": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "error_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "visual_user",
+      "password": "secret_sauce"
+    }
+  ],
+  "paths": {
+    "url": "https://www.saucedemo.com/v1/"
+  },
+  "errorMessage": {
+    "usernameAndPasswordMismatch": "Epic sadface: Username and password do not match any user in this service",
+    "emptyUsernameAndPasswordError": "Epic sadface: Username is required",
+    "wrongNavigationError": "Epic sadface: You can only access '/inventory.html' when you are logged in."
+  }
+}
